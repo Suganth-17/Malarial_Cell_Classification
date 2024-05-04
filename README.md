@@ -23,7 +23,7 @@ Automated Malarial Cell Classification is a deep learning project aimed at revol
 
 1. Clone the repository:
    ``` bash
-   git clone https://github.com/sakthii25/Automating-Malarial-Cell-Classification-Using-Deep-Learning.git
+   git clone https://github.com/Suganth-17/Automating-Malarial-Cell-Classification-Using-Deep-Learning.git
    ```
 
 3. Install the required dependencies:
